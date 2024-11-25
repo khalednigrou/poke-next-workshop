@@ -1,1 +1,1 @@
-# pokeNext-workshop
+# poke-next-workshop
